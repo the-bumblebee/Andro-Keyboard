@@ -3,5 +3,38 @@
 
     <string name="app_name">AndroKeyboard</string>
     <string name="hello_world">Hello world!</string>
+	<string name="b_q">q</string>
+	<string name="b_w">w</string>
+	<string name="b_e">e</string>
+	<string name="b_r">r</string>
+	<string name="b_t">t</string>
+	<string name="b_y">y</string>
+	<string name="b_u">u</string>
+	<string name="b_i">i</string>
+	<string name="b_o">o</string>
+	<string name="b_p">p</string>
+	<string name="b_a">a</string>
+	<string name="b_s">s</string>
+	<string name="b_d">d</string>
+	<string name="b_f">f</string>
+	<string name="b_g">g</string>
+	<string name="b_h">h</string>
+	<string name="b_j">j</string>
+	<string name="b_k">k</string>
+	<string name="b_l">l</string>
+	<string name="b_z">z</string>
+	<string name="b_x">x</string>
+	<string name="b_c">c</string>
+	<string name="b_v">v</string>
+	<string name="b_b">b</string>
+	<string name="b_n">n</string>
+	<string name="b_m">m</string>
+	<string name="b_space"> </string>
+	<string name="b_shift">\u21e7</string>
+	<string name="b_symbols">\?123</string>
+	<string name="b_backspace">\u232b</string>
+	<string name="b_caps">Caps Lock</string>
+	<string name="b_tab">Tab</string>
+	<string name="b_return">\u23ce</string>
 
 </resources>
