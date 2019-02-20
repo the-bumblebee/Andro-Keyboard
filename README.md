@@ -1,5 +1,5 @@
-# Andro-Keyboard
-An android app that enables tthr use of an android 
+# AndroKeyboard
+An android app that enables the use of an android 
 phone as a bluetooth keyboard for another android phone.
 
 ## Status of the project
