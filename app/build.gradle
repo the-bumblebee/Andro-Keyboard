@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.0"
 
     defaultConfig {
-        applicationId "com.pixelacious.androkeyboard"
+        applicationId "com.mycompany.androkeyboard"
         minSdkVersion 14
         targetSdkVersion 21
         versionCode 1
@@ -20,6 +20,6 @@ android {
 }
 
 dependencies {
-	compile 'com.android.support:appcompat-v7:+'
+	compile 'com.android.support:appcompat-v7:27.+'
     compile fileTree(dir: 'libs', include: ['*.jar'])
 }
